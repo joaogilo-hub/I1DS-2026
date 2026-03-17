@@ -34,4 +34,4 @@ saldo = saldo + 700;
 console.log("saldo:", saldo);
 console.log("voçe tranferiu um saldo de 20$");
 saldo = saldo - 20;
-console.log("saldo:", saldo);
+console.log("seu saldo atual é:", saldo);

@@ -19,7 +19,7 @@ console.log("-------------------------");
 const pi = 3.14159265359
 let raio = 5;
 
-console.log("Comprimento de uma criacunferencia de raio =", raio, "cm :",2*pi*raio)
+console.log("Comprimento de uma criar circunferencia de raio =", raio, "cm :",2*pi*raio)
 
 //Operadores relacionais ou comparadores
 x = 22;
@@ -45,6 +45,7 @@ console.log("x maior que y?", x > y); // maior que
 console.log("x menor que y?", x < y); // menor que
 console.log("x maior ou igual a y?", x >= y); //maior igual que
 console.log("x menor ou igual a y?", x <= y); //menor igual que
+
 
 
 
