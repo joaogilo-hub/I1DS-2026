@@ -22,4 +22,4 @@ console.log(i);
 // Dado um vetor[array], calcule e exiba o samatorio de seus elementos
 var numeros = [5, 6, 8, 14, 0, 6, 9, 7, 2];
 let soma = 0
-console.log(numeros.inght)
+console.log(numeros.inghi);
