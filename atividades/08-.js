@@ -89,3 +89,23 @@ console.log("Nota da primeira prova:", n1);
 console.log("Nota da segunda prova:", n2);
 console.log("Nota da terceira prova:", n3);
 console.log("A sua média é:", media);
+
+
+let numero = -5;
+if (numero > 0) {
+  console.log("O número é positivo.");
+}
+
+if (numero < 0) {
+  console.log("O número é negativo.");
+}
+if (numero == 0) {
+  console.log("O número é zero.");
+}
+
+let numero2 = 5
+if (numero2 % 2 == 0) {
+  console.log("Este número é par!")
+} else {
+  console.log("Este número é impar!")
+}
